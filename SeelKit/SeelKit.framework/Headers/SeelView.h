@@ -50,11 +50,10 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic, assign) CGFloat viewHeight;
 
-
 /// 将SellView 添加到你想要展示的View上
 /// @param superView superView
 /// @param pointX x
-/// @param pointY x
+/// @param pointY y
 /// @param viewWidth width
 - (void)addToSuperView:(UIView *)superView pointX:(CGFloat)pointX pointY:(CGFloat)pointY viewWidth:(CGFloat)viewWidth;
 
