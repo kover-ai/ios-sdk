@@ -13,8 +13,10 @@ Pod::Spec.new do |spec|
 
   spec.source = { :git => "https://github.com/kover-ai/ios-sdk.git", :tag => "#{spec.version}" }
 
-  spec.source_files  = "SeelKit.framework/Headers/*.{h,m}"
-
   spec.vendored_frameworks  = 'SeelKit.framework'
+
+  spec.frameworks = "Foundation", "UIKit"
+
+  spec.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
 
 end
