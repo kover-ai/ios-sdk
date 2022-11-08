@@ -48,6 +48,15 @@ NS_ASSUME_NONNULL_BEGIN
 /// switchThumbTintColor default #645AFF
 @property (nonatomic, strong) UIColor *switchThumbTintColor;
 
+/// iconImage
+@property (nonatomic, strong) UIImage *iconImage;
+
+/// priceFont
+@property (nonatomic, strong) UIFont *priceFont;
+
+/// priceColor
+@property (nonatomic, strong) UIColor *priceColor;
+
 @property (nonatomic, assign) CGFloat viewHeight;
 
 /// 将SellView 添加到你想要展示的View上

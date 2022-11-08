@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/SKManager.h</key>
 		<data>
-		dE3f/XtWMzO7QTHRVwR8pUZyui8=
+		oPO16Dp751Yis+DukOdl2l3hkEs=
 		</data>
 		<key>Headers/SeelKit.h</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Headers/SeelView.h</key>
 		<data>
-		wssxCGcoiIxjf4pVo03d5tmbQDg=
+		2H710cHmwXXkAGmhw5PH/pQzLkI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CgCI7ijeCJnbUZdmUHjk87RzIMU=
+		SVueq4CRzQYyYB12YA8d4rXlGtE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -31,11 +31,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dE3f/XtWMzO7QTHRVwR8pUZyui8=
+			oPO16Dp751Yis+DukOdl2l3hkEs=
 			</data>
 			<key>hash2</key>
 			<data>
-			brnjGnVI5JqcwXOXThjzvLKu9L8f8PeO5Ld4lqWcNVg=
+			+gzL3TLPupdyWampiCA19JZtNp0DMn8miNm12sBHTws=
 			</data>
 		</dict>
 		<key>Headers/SeelKit.h</key>
@@ -53,11 +53,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wssxCGcoiIxjf4pVo03d5tmbQDg=
+			2H710cHmwXXkAGmhw5PH/pQzLkI=
 			</data>
 			<key>hash2</key>
 			<data>
-			QlzkkmQW2U/v9uG4177lMtzBshCe1i2tn7Cw4rmUiHs=
+			zJJ5f4xduJcn6mPtitYqBZuZcROe4RgMfJ7lwlCN1zE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
